@@ -1,0 +1,8 @@
+# Local data, feature caches, and training artifacts
+.data/
+data/
+runs/
+AGENTS.md
+AGENT.md
+__pycache__/
+*.pyc
